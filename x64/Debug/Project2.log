@@ -1,0 +1,8 @@
+﻿  book.cpp
+C:\Users\swiat\Desktop\Projekt C++\Project2\student.h(8,1): error C2504: 'Book': base class undefined
+C:\Users\swiat\Desktop\Projekt C++\Project2\book.cpp(113,32): warning C4309: 'initializing': truncation of constant value
+  main.cpp
+  student.cpp
+C:\Users\swiat\Desktop\Projekt C++\Project2\student.cpp(75,26): warning C4309: 'initializing': truncation of constant value
+C:\Users\swiat\Desktop\Projekt C++\Project2\student.cpp(206,30): warning C4309: 'initializing': truncation of constant value
+  Generating Code...
